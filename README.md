@@ -1,11 +1,10 @@
-[![MasterHead](https://tenor.com/view/kratos-pc-trash-gow4-rage-gif-11985168)
+![MasterHead](https://i.kym-cdn.com/photos/images/original/001/372/654/fe5.gif)
 <h1 align="center">Hi 👋, I'm Suyash Upadhyay</h1>
 <h3 align="center">A newbie to programming</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sash107&label=Profile%20views&color=0e75b6&style=flat" alt="sash107" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sash107" alt="sash107" /></a> </p>
 
 - 🌱 I’m currently learning **C++ ,DSA**
 
