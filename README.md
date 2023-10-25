@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sash107&show_icons=true&theme=dark&title_color=e22828&hide_border=true&locale=en" alt="sash107" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sash107&theme=dark" alt="sash107" /></p>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting+My+Profile+:)">
+</h3>
