@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sash107" alt="sash107" /></a> </p>
 
-- 🌱 I’m currently learning **C++ ,DSA**
+- 🌱 I’m currently learning **DSA, KOTLIN**
 
 - 📫 How to reach me **suyashupadhyay2004@gmail.com**
 
@@ -16,8 +16,12 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/suyash-upadhyay-0273981a5/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://https://discordapp.com/users/sash#0480/)
+
+### My Skills And Tools 
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,linux,python,vscode,kotlin,idea)](https://github.com/Sash107)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sash107&show_icons=true&theme=dark&title_color=5b0ced&locale=en&layout=compact" alt="sash107" /></p>
 
