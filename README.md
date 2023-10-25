@@ -1,6 +1,6 @@
 ![MasterHead](https://i.kym-cdn.com/photos/images/original/001/372/654/fe5.gif)
 <h1 align="center">Hi 👋, I'm Suyash Upadhyay</h1>
-<h3 align="center">A newbie to programming</h3>
+<h3 align="center">Programming Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sash107&label=Profile%20views&color=0e75b6&style=flat" alt="Sash107" /> </p>
 
