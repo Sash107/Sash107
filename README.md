@@ -2,11 +2,15 @@
 <h1 align="center">Hi 👋, I'm Suyash Upadhyay</h1>
 <h3 align="center">A newbie to programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sash107&label=Profile%20views&color=0e75b6&style=flat" alt="sash107" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sash107&label=Profile%20views&color=0e75b6&style=flat" alt="Sash107" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sash107" alt="sash107" /></a> </p>
-
-- 🌱 I’m currently learning **DSA, KOTLIN**
+ <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=&theme=gruvbox">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sash107&theme=gruvbox"/>
+  </a>
+</p>
+<br/>- 🌱 I’m currently learning **DSA, KOTLIN**
 
 - 📫 How to reach me **suyashupadhyay2004@gmail.com**
 
