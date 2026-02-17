@@ -10,7 +10,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Sash107&theme=gruvbox"/>
   </a>
 </p>
-<br/>- 🌱 I’m currently learning **DSA, KOTLIN**
+<br/>- 🌱 I’m currently learning **DSA, MERN**
 
 - 📫 How to reach me **suyashupadhyay2004@gmail.com**
 
@@ -23,9 +23,31 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/suyash-upadhyay-0273981a5/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://https://discordapp.com/users/sash#0480/)
 
+##  Achievements
+
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOMC13IHjnRX883JpCHcleclE3jyxU2vVIQ&s" width="90"/><br/><br/>
+      <b>ICPC Asia West 2025</b><br/>
+      Amritapuri Regionalist
+    </td>
+    <td align="center" width="33%">
+      <img src="https://imgs.search.brave.com/4KK4MgdEpN0IgrNaBUZ7eu4i-41JuCS2zEKpzHU63eI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jc2Uu/bm90aWNlYmFyZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzL3Np/dGVzLzIzLzIwMjUv/MDYvSU1HXzIzNjkt/MTAyNHg1NzYuanBl/Zw" width="90"/><br/><br/>
+      <b>Smart India Hackathon 2025</b><br/>
+      National Finalist<br/>
+      <sub>Top 5 / 500+ teams</sub>
+    </td>
+  </tr>
+</table>
+</p>
+
+---
+
 ### My Skills And Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,linux,python,vscode,kotlin,idea)](https://github.com/Sash107)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,javascript,react,nextjs,nodejs,express,mongodb,git,github,linux,python,vscode,idea)](https://github.com/Sash107)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sash107&show_icons=true&theme=dark&title_color=5b0ced&locale=en&layout=compact" alt="sash107" /></p>
 
