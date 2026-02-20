@@ -58,7 +58,7 @@
 ## 🛠 Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,git,github,linux,python,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,git,github,linux,python,fastapi,prisma,vscode" />
 </p>
 
 ---
