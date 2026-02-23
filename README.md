@@ -65,7 +65,7 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">\
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sash107&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
